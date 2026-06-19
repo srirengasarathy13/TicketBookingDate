@@ -1,0 +1,14 @@
+# IRCTC Booking Date Finder
+
+A web application that helps users find the IRCTC booking opening date based on their journey date.
+
+## Features
+
+- Calculate booking opening date
+- Simple and responsive UI
+- Instant results
+- Mobile-friendly design
+
+## Live Demo
+
+https://irctc-booking-date-finder.netlify.app/
