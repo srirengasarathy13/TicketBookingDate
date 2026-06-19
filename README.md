@@ -11,4 +11,4 @@ A web application that helps users find the IRCTC booking opening date based on 
 
 ## Live Demo
 
-https://irctc-booking-date-finder.netlify.app/
+https://railwaybookingdatefinder.netlify.app/
