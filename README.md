@@ -1,4 +1,4 @@
-# IRCTC Booking Date Finder
+# Rail Booking Tracker
 
 A web application that helps users find the IRCTC booking opening date based on their journey date.
 
